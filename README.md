@@ -1,2 +1,1 @@
-# ninja.xx
-Blox fruit
+https://github.com/farnostw/ninja.xx/edit/main/README.md
